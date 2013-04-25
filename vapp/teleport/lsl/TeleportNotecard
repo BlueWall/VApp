@@ -1,0 +1,10 @@
+; Comment
+;
+; Formatting...                Landing   Lookat
+; CATEGORY|LABEL|REGION NAME|<XX,XX,XX>|<XX,XX,XX>
+;
+; One entry per line
+; Drop the notecard in a teleport object and it will
+; Re-Program the database, then the notecard will be
+; Deleted. Keep your updated copy and edit it to update
+; the system.
