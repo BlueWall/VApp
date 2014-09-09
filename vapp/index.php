@@ -5,6 +5,7 @@
   $cfgDir = getcwd() . "/etc";
   $incDir = getcwd() . "/include";
 
+  // It is good to place this outside of the htdocs area
   require_once $cfgDir.'/config.inc';
 
   static $args = array(); 
