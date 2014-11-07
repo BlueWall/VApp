@@ -8,4 +8,5 @@ The values sent from lsl are assigned in the switch statement to form the comman
     $func($args);
 
 
+Find an example networked teleport system lsl script in the project here: https://github.com/BlueWall/VApp/blob/master/vapp/teleport/lsl/XTeleport.lsl
 
